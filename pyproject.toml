@@ -3,6 +3,8 @@ name = "image-processing-computer-vision"
 version = "0.1.0"
 requires-python = ">=3.13"
 dependencies = [
+    "kaggle>=2.2.4",
+    "kagglehub>=1.0.2",
     "numpy>=2.5.2",
     "opencv-python>=5.0.0.93",
 ]
