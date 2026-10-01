@@ -1,4 +1,4 @@
-# Topics to cover
+# Topics to cover for Image Processing and Computer Vision
 
 ## Low Level Vision
 
@@ -19,3 +19,4 @@
 - Activity recognition
 - Deep understandings
 - Pose estimation
+
