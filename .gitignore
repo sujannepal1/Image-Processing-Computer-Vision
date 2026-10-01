@@ -1,3 +1,4 @@
 .env
 .venv
 chicken-images
+.DS_Store
