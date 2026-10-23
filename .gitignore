@@ -2,3 +2,4 @@
 .venv
 chicken-images
 .DS_Store
+test/
